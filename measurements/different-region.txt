@@ -1,0 +1,16 @@
+Running 100 reps against http://10.156.0.2:5000
+Took 339.44057845000316 ms per operation
+Running 100 reps against 10.156.0.2:50051
+Took 164.92147777000355 ms per operation
+Running 100 reps against http://10.156.0.2:5000
+Took 1361.1114383099994 ms per operation
+Running 100 reps against 10.156.0.2:50051
+Took 223.70958174000407 ms per operation
+Running 100 reps against http://10.156.0.2:5000
+Took 345.83715954000127 ms per operation
+Running 100 reps against 10.156.0.2:50051
+Took 185.09489090999978 ms per operation
+Running 100 reps against http://10.156.0.2:5000
+Took 1493.7685404999957 ms per operation
+Running 100 reps against 10.156.0.2:50051
+Took 216.58669752999685 ms per operation

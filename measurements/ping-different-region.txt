@@ -1,0 +1,15 @@
+PING 10.156.0.2 (10.156.0.2) 56(84) bytes of data.
+64 bytes from 10.156.0.2: icmp_seq=1 ttl=64 time=164 ms
+64 bytes from 10.156.0.2: icmp_seq=2 ttl=64 time=161 ms
+64 bytes from 10.156.0.2: icmp_seq=3 ttl=64 time=161 ms
+64 bytes from 10.156.0.2: icmp_seq=4 ttl=64 time=161 ms
+64 bytes from 10.156.0.2: icmp_seq=5 ttl=64 time=161 ms
+64 bytes from 10.156.0.2: icmp_seq=6 ttl=64 time=161 ms
+64 bytes from 10.156.0.2: icmp_seq=7 ttl=64 time=161 ms
+64 bytes from 10.156.0.2: icmp_seq=8 ttl=64 time=161 ms
+64 bytes from 10.156.0.2: icmp_seq=9 ttl=64 time=161 ms
+64 bytes from 10.156.0.2: icmp_seq=10 ttl=64 time=161 ms
+
+--- 10.156.0.2 ping statistics ---
+10 packets transmitted, 10 received, 0% packet loss, time 9015ms
+rtt min/avg/max/mdev = 160.563/160.970/163.678/0.905 ms

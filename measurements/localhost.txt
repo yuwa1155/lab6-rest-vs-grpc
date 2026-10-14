@@ -1,0 +1,16 @@
+Running 1000 reps against http://localhost:5000
+Took 3.785833430000025 ms per operation
+Running 1000 reps against localhost:50051
+Took 0.9538904230000753 ms per operation
+Running 1000 reps against http://localhost:5000
+Took 6.6087078049999946 ms per operation
+Running 1000 reps against localhost:50051
+Took 10.179697265999948 ms per operation
+Running 1000 reps against http://localhost:5000
+Took 4.272642260999987 ms per operation
+Running 1000 reps against localhost:50051
+Took 1.0432420529999717 ms per operation
+Running 1000 reps against http://localhost:5000
+Took 42.32315062099997 ms per operation
+Running 1000 reps against localhost:50051
+Took 37.04085688700002 ms per operation

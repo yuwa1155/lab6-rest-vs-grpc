@@ -1,0 +1,16 @@
+Running 1000 reps against http://10.138.0.3:5000
+Took 4.452611581999918 ms per operation
+Running 1000 reps against 10.138.0.3:50051
+Took 1.2539475149999362 ms per operation
+Running 1000 reps against http://10.138.0.3:5000
+Took 9.975870269000097 ms per operation
+Running 1000 reps against 10.138.0.3:50051
+Took 15.957742535999841 ms per operation
+Running 1000 reps against http://10.138.0.3:5000
+Took 5.698721163000073 ms per operation
+Running 1000 reps against 10.138.0.3:50051
+Took 1.5026605759999256 ms per operation
+Running 1000 reps against http://10.138.0.3:5000
+Took 47.47775568899988 ms per operation
+Running 1000 reps against 10.138.0.3:50051
+Took 40.03951754700006 ms per operation
